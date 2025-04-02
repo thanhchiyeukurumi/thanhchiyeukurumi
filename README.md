@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning **React and Express**
 
 - 📫 How to reach me **hoangchithanh2004@gmail.com**
-
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhchiyeukurumi&show_icons=true&locale=en&layout=compact" alt="thanhchiyeukurumi" /></p>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -49,6 +51,6 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhchiyeukurumi&show_icons=true&locale=en&layout=compact" alt="thanhchiyeukurumi" /></p>
+
 
 
